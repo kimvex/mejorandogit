@@ -1,0 +1,35 @@
+commit db80ca4ca9d7c4b9b4f1cb779d6e84a37077e86e
+Author: Benjamin DeLaCruz <chomi.numb.94@gmail.com>
+Date:   Sun Dec 28 20:55:43 2014 -0600
+
+    Salve mi portafolio
+
+commit 96666592d2ef588eedbd793a269aeb163c8699f1
+Author: Benjamin DeLaCruz <chomi.numb.94@gmail.com>
+Date:   Sun Dec 28 20:54:19 2014 -0600
+
+    Agregue descripcion
+
+commit 8b58e0dcd6c74763227c6b1459936dd002590817
+Author: Benjamin DeLaCruz <chomi.numb.94@gmail.com>
+Date:   Sun Dec 28 20:51:50 2014 -0600
+
+    Agregue Redes Sociales
+
+commit a02ebd731b7eee42f97a2d188769a41185302b50
+Author: Benjamin DeLaCruz <chomi.numb.94@gmail.com>
+Date:   Sun Dec 28 20:48:04 2014 -0600
+
+    Perfil Web escrito
+
+commit 9b53027fe5771d9481221e2a649c230466907ac9
+Author: Benjamin DeLaCruz <chomi.numb.94@gmail.com>
+Date:   Sun Dec 28 20:43:27 2014 -0600
+
+    Subu foto de perfil y mi nombre
+
+commit 0d69beb604130972cdcae0af5a896689826a5817
+Author: Benjamin DeLaCruz <chomi.numb.94@gmail.com>
+Date:   Sun Dec 28 20:26:51 2014 -0600
+
+    Estos son los archivos base de mi portafolio
